@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="COMMUNITY Animated Banner" />
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/community/main/banner.svg" width="100%" alt="COMMUNITY Animated Banner" />
 </p>
 
 # DrakesCraft Labs — Community & Discussions
+
+> ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
+> 
+> * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
+> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rR7FbfCt9Y)
+> * 🌐 **Web & Guía**: [drakescraft.net](https://drakescraft.net) — 🛒 **Tienda**: [tienda.drakescraft.net](https://tienda.drakescraft.net)
+> 
+> *¡Juega con este addon y más de 80 expansiones optimizadas en vivo en nuestra network de supervivencia técnica!*
+
+---
 
 Repositorio central para discusiones de arquitectura, anuncios de desarrollo, coordinación de issues cross-repository y gobernanza técnica del ecosistema **DrakesCraft-Labs**.
 
